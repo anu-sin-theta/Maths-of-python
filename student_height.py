@@ -7,7 +7,7 @@ print(list)
 sum = 0
 for y in list:
     sum += y
-avg = round(sum/N)
+avg = (sum/N)
 print('The average height of given',N,'students is',avg,"meters")
 
 
