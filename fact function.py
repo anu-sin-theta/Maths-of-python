@@ -12,7 +12,7 @@ def factsum(*a):
         if i >=0:
             s+=fact(i)
     return s
-print(factsum(1,2,3,4,5,0))
+print(factsum(1,2,3,4,5,0,78))
 
 
 
